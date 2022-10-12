@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="CaveBG.png">
+	
+	
+	<SubTexture name="CaveBG0000" x="0" y="0" width="1450" height="789" />
+	<SubTexture name="CaveBG0001" x="1450" y="0" width="1450" height="789" />
+	<SubTexture name="CaveBG0002" x="0" y="0" width="1450" height="789" />
+	<SubTexture name="CaveBG0003" x="0" y="789" width="1450" height="789" />
+	<SubTexture name="CaveBG0004" x="0" y="789" width="1450" height="789" />
+	<SubTexture name="CaveBG0005" x="1450" y="789" width="1450" height="789" />
+</TextureAtlas>

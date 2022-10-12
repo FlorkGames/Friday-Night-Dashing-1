@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="geometricalpublic.png">
+	
+	
+	<SubTexture name="public0000" x="0" y="0" width="1435" height="474" />
+	<SubTexture name="public0001" x="1435" y="0" width="1435" height="473" frameX="0" frameY="-1" frameWidth="1435" frameHeight="474" />
+	<SubTexture name="public0002" x="0" y="474" width="1435" height="471" frameX="0" frameY="-3" frameWidth="1435" frameHeight="474" />
+	<SubTexture name="public0003" x="1435" y="474" width="1435" height="470" frameX="0" frameY="-4" frameWidth="1435" frameHeight="474" />
+	<SubTexture name="public0004" x="0" y="945" width="1435" height="470" frameX="0" frameY="-4" frameWidth="1435" frameHeight="474" />
+	<SubTexture name="public0005" x="1435" y="945" width="1435" height="470" frameX="0" frameY="-4" frameWidth="1435" frameHeight="474" />
+	<SubTexture name="public0006" x="0" y="1415" width="1435" height="470" frameX="0" frameY="-4" frameWidth="1435" frameHeight="474" />
+	<SubTexture name="public0007" x="1435" y="1415" width="1435" height="470" frameX="0" frameY="-4" frameWidth="1435" frameHeight="474" />
+	<SubTexture name="public0008" x="0" y="1886" width="1435" height="471" frameX="0" frameY="-3" frameWidth="1435" frameHeight="474" />
+	<SubTexture name="public0009" x="1435" y="1886" width="1435" height="472" frameX="0" frameY="-2" frameWidth="1435" frameHeight="474" />
+</TextureAtlas>
