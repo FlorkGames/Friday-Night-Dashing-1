@@ -1,0 +1,32 @@
+{
+	"storyName": "Si",
+	"difficulties": "Demon",
+	"hideFreeplay": false,
+	"weekBackground": "geometrical",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"At The Speed Of Light",
+			"extremedemon",
+			[
+				106,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week 9",
+	"hiddenUntilUnlocked": false
+}
