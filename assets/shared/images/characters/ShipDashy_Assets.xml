@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="ShipDashy_Assets.png">
+	
+	
+	<SubTexture name="ShipDashyDown0000" x="0" y="0" width="508" height="239" frameX="0" frameY="-19" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0001" x="508" y="0" width="462" height="239" frameX="0" frameY="-19" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0002" x="971" y="0" width="472" height="247" frameX="0" frameY="-11" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0003" x="1443" y="0" width="425" height="247" frameX="0" frameY="-11" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0004" x="1868" y="0" width="508" height="255" frameX="0" frameY="-3" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0005" x="2377" y="0" width="462" height="255" frameX="0" frameY="-3" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0006" x="2839" y="0" width="472" height="257" frameX="0" frameY="0" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0007" x="3311" y="0" width="425" height="257" frameX="0" frameY="0" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0008" x="0" y="257" width="508" height="257" frameX="0" frameY="0" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0009" x="508" y="257" width="462" height="257" frameX="0" frameY="0" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0010" x="971" y="257" width="472" height="257" frameX="0" frameY="0" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0011" x="1443" y="257" width="425" height="257" frameX="0" frameY="0" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0012" x="0" y="257" width="508" height="257" frameX="0" frameY="0" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyDown0013" x="508" y="257" width="462" height="257" frameX="0" frameY="0" frameWidth="508" frameHeight="258" />
+	<SubTexture name="ShipDashyIdle0000" x="1868" y="257" width="508" height="241" frameX="0" frameY="-9" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0001" x="2377" y="257" width="462" height="241" frameX="0" frameY="-9" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0002" x="2839" y="257" width="472" height="245" frameX="0" frameY="-6" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0003" x="3311" y="257" width="425" height="246" frameX="0" frameY="-6" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0004" x="0" y="515" width="508" height="250" frameX="0" frameY="-2" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0005" x="508" y="515" width="462" height="251" frameX="0" frameY="-2" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0006" x="971" y="515" width="472" height="253" frameX="0" frameY="0" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0007" x="1443" y="515" width="425" height="253" frameX="0" frameY="0" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0008" x="1868" y="515" width="508" height="252" frameX="0" frameY="0" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0009" x="2377" y="515" width="462" height="252" frameX="0" frameY="0" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0010" x="2839" y="515" width="472" height="251" frameX="0" frameY="0" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0011" x="3311" y="515" width="425" height="251" frameX="0" frameY="0" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0012" x="0" y="768" width="508" height="250" frameX="0" frameY="0" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyIdle0013" x="508" y="768" width="462" height="250" frameX="0" frameY="0" frameWidth="508" frameHeight="253" />
+	<SubTexture name="ShipDashyLeft0000" x="971" y="768" width="520" height="257" />
+	<SubTexture name="ShipDashyLeft0001" x="1491" y="768" width="474" height="257" frameX="0" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0002" x="1965" y="768" width="479" height="257" frameX="-4" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0003" x="2444" y="768" width="433" height="257" frameX="-4" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0004" x="2877" y="768" width="511" height="257" frameX="-9" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0005" x="3389" y="768" width="465" height="257" frameX="-9" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0006" x="0" y="1025" width="472" height="257" frameX="-12" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0007" x="472" y="1025" width="425" height="257" frameX="-12" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0008" x="897" y="1025" width="508" height="257" frameX="-12" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0009" x="1406" y="1025" width="462" height="257" frameX="-12" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0010" x="1868" y="1025" width="472" height="257" frameX="-12" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0011" x="2340" y="1025" width="425" height="257" frameX="-12" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0012" x="897" y="1025" width="508" height="257" frameX="-12" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyLeft0013" x="1406" y="1025" width="462" height="257" frameX="-12" frameY="0" frameWidth="520" frameHeight="257" />
+	<SubTexture name="ShipDashyRight0000" x="2766" y="1025" width="517" height="262" frameX="0" frameY="-8" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0001" x="3283" y="1025" width="481" height="262" frameX="0" frameY="-8" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0002" x="0" y="1288" width="479" height="266" frameX="0" frameY="-4" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0003" x="479" y="1288" width="440" height="266" frameX="0" frameY="-4" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0004" x="920" y="1288" width="510" height="269" frameX="0" frameY="-1" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0005" x="1430" y="1288" width="465" height="269" frameX="0" frameY="-1" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0006" x="1895" y="1288" width="472" height="270" frameX="0" frameY="0" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0007" x="2367" y="1288" width="425" height="270" frameX="0" frameY="0" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0008" x="2793" y="1288" width="508" height="270" frameX="0" frameY="0" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0009" x="3301" y="1288" width="462" height="270" frameX="0" frameY="0" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0010" x="1895" y="1288" width="472" height="270" frameX="0" frameY="0" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0011" x="0" y="1558" width="425" height="270" frameX="0" frameY="0" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0012" x="2793" y="1288" width="508" height="270" frameX="0" frameY="0" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyRight0013" x="3301" y="1288" width="462" height="270" frameX="0" frameY="0" frameWidth="517" frameHeight="270" />
+	<SubTexture name="ShipDashyUp0000" x="425" y="1558" width="508" height="387" />
+	<SubTexture name="ShipDashyUp0001" x="934" y="1558" width="462" height="373" frameX="0" frameY="-14" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0002" x="1396" y="1558" width="472" height="357" frameX="0" frameY="-31" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0003" x="1868" y="1558" width="425" height="337" frameX="0" frameY="-51" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0004" x="2294" y="1558" width="508" height="307" frameX="0" frameY="-80" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0005" x="2802" y="1558" width="462" height="264" frameX="0" frameY="-124" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0006" x="3265" y="1558" width="472" height="259" frameX="0" frameY="-128" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0007" x="0" y="1945" width="425" height="266" frameX="0" frameY="-122" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0008" x="425" y="1945" width="508" height="266" frameX="0" frameY="-122" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0009" x="934" y="1945" width="462" height="266" frameX="0" frameY="-122" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0010" x="1396" y="1945" width="472" height="266" frameX="0" frameY="-122" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0011" x="0" y="1945" width="425" height="266" frameX="0" frameY="-122" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0012" x="425" y="1945" width="508" height="266" frameX="0" frameY="-122" frameWidth="508" frameHeight="387" />
+	<SubTexture name="ShipDashyUp0013" x="934" y="1945" width="462" height="266" frameX="0" frameY="-122" frameWidth="508" frameHeight="387" />
+</TextureAtlas>
