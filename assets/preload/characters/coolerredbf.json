@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				105,
+				100
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BF idle dance"
+		},
+		{
+			"offsets": [
+				105,
+				115
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFCOOLLEFT"
+		},
+		{
+			"offsets": [
+				60,
+				100
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFCOOLDOWN"
+		},
+		{
+			"offsets": [
+				80,
+				150
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFCOOLUP"
+		},
+		{
+			"offsets": [
+				70,
+				115
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFCOOLRIGHT"
+		},
+		{
+			"offsets": [
+				108,
+				105
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singLEFTmiss",
+			"indices": [],
+			"name": "BF NOTE LEFT MISS"
+		},
+		{
+			"offsets": [
+				100,
+				100
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singDOWNmiss",
+			"indices": [],
+			"name": "BF NOTE DOWN MISS"
+		},
+		{
+			"offsets": [
+				80,
+				125
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singUPmiss",
+			"indices": [],
+			"name": "BF NOTE UP MISS"
+		},
+		{
+			"offsets": [
+				65,
+				105
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "singRIGHTmiss",
+			"indices": [],
+			"name": "BF NOTE RIGHT MISS"
+		},
+		{
+			"offsets": [
+				95,
+				95
+			],
+			"loop": false,
+			"fps": 15,
+			"anim": "mic",
+			"indices": [],
+			"name": "BF MIC IDLE"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/tzenredbf",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		440,
+		-270
+	],
+	"sing_duration": 4,
+	"scale": 1.7
+}

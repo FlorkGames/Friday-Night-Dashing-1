@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-50,
+				155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "BFHandIdle"
+		},
+		{
+			"offsets": [
+				-50,
+				155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "BFHandLeft"
+		},
+		{
+			"offsets": [
+				-290,
+				140
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "BFHandDown"
+		},
+		{
+			"offsets": [
+				-185,
+				290
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "BFHandUp"
+		},
+		{
+			"offsets": [
+				-315,
+				155
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "BFHandRight"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BFHand_Assets",
+	"position": [
+		0,
+		350
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		390,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
